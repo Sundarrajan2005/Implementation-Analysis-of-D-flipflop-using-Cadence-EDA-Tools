@@ -1,9 +1,9 @@
 # Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
 
-## Aim
+## Aim:
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
 
-## Tools Required
+## Tools Required:
 
 ### Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)
@@ -15,7 +15,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
 
-## Procedure
+## Procedure:
 
 ### 1. Launch Cadence Virtuoso Environment
 - Open the Cadence Virtuoso tool and set up the working library.
@@ -38,13 +38,13 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 - Observe the output waveform to confirm correct D flip-flop functionality.
 - Ensure that the Q output follows the D input on the rising edge of the clock signal.
 
-## Circuit Diagram
+## Circuit Diagram:
 
 ### 1. Tri State D Flip-Flop
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+<img width="1917" height="1077" alt="Screenshot 2025-10-06 155305" src="https://github.com/user-attachments/assets/55adcdf9-a6fb-403c-a9e0-df46e09f3ea4" />
 
 
 ### 3. Transient Response Setup
@@ -55,10 +55,11 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 
 
-## Output
+## Output:
 
 ### 1. Transient Analysis Output
-![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
+<img width="1919" height="1079" alt="Screenshot 2025-10-06 155923" src="https://github.com/user-attachments/assets/c2e941ad-5954-482e-aa0d-c75e692d10b7" />
+
 
 
 ## Results
